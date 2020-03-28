@@ -1,0 +1,5 @@
+Tipo de letra: Aller Light
+Tamaños:
+	Letras:23pt
+	Numeros:20pt
+Interlinieado: 27pt
