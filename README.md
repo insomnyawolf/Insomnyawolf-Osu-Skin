@@ -1,5 +1,15 @@
 # Insomnyawolf-Osu-Skin
 
+## If you need SD elements
+
+Use [OsuSkiningTools](https://github.com/insomnyawolf/OsuSkiningTools)
+
+* Select the skin folder
+* Click on the HDtoDS tab
+* Click on the button
+* Wait till it's done
+* Enjoy =)
+
 ## Sugerencias
 
 ### Maybe
