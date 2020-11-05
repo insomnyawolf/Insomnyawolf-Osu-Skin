@@ -3,3 +3,5 @@ Tamaños:
 	Letras:23pt
 	Numeros:20pt
 Interlinieado: 27pt
+
+Distancia superior: 6.83Cm
